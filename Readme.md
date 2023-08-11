@@ -10,6 +10,6 @@ Open docker container terminal
 > wget <URL to latest release>
 Restart docker container.
 ```
-*Check RabbitPublisher for delay logic
+* Check RabbitPublisher for delay logic
 
 
